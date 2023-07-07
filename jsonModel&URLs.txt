@@ -1,0 +1,41 @@
+
+Contact Us : 
+{
+  "name": "string",
+  "email": "string",
+  "message": "string"
+}
+
+URL:https://localhost:7166/api/ContactUs_Sponsor/ContactUs
+
+Sponsor :
+{
+  "name": "Asad",
+  "phoneNumber": "53452",
+  "email": "asad@gmail.com",
+  "organization": "NEDUET",
+  "message": "Helloo"
+}
+URL:https://localhost:7166/api/ContactUs_Sponsor/Sponsor
+
+Events : 
+{
+  "eventName": "AI FEST 4.0",
+  "eventType": "Flag Ship",
+  "eventDescription": "abc xyz",
+  "startDate": 1,
+  "endDate": 5,
+  "month": "January",
+  "year": 2023
+}
+URL : https://localhost:7166/api/Events/addevents
+
+Other URLs : 
+https://localhost:7166/api/Events/getAllEvents
+
+https://localhost:7166/api/Events/GetPastEvent
+
+https://localhost:7166/api/Events/GetUpcomingEvent
+
+https://localhost:7166/api/Events/GetOnGoingEvent
+
